@@ -1,0 +1,71 @@
+This is the redist.txt file mentioned in the associated Intel End User License 
+Agreement for Developer Tools (Version October 2020) (“Agreement”).  All 
+capitalized terms used but not defined in this file have the same meaning as 
+specified in the Agreement. The Redistributables are listed below, and are 
+subject to all of the terms and conditions of the Agreement.
+
+Please note that Third Party Programs, if any, may also be redistributable. See 
+the “third-party-programs.txt” or other similarly-named text file for more 
+details.”
+
+################################################################################
+###   Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.4.0
+################################################################################
+
+<installdir>/Library/bin/libiomp5md.dll
+<installdir>/Library/bin/libiomp5md.pdb
+<installdir>/Library/bin/libiompstubs5md.dll
+<installdir>/Library/bin/omptarget.rtl.opencl.dll
+<installdir>/Library/bin/omptarget.rtl.level0.dll
+<installdir>/Library/bin/omptarget.dll
+<installdir>/Library/bin/libomp-fallback-cstring.spv
+<installdir>/Library/lib/libomp-fallback-cstring.obj
+<installdir>/Library/bin/libchkp.dll
+<installdir>/Library/bin/libirngmd.dll
+<installdir>/Library/bin/libmmd.dll
+<installdir>/Library/bin/libmmd.pdb
+<installdir>/Library/bin/libmmdd.dll
+<installdir>/Library/bin/libmmdd.pdb
+<installdir>/Library/bin/svml_dispmd.dll
+<installdir>/Library/bin/svml_dispmd.pdb
+<installdir>/Library/bin/pi_opencl.dll
+<installdir>/Library/lib/libsycl-fallback-cstring.obj
+<installdir>/Library/lib/OpenCL.lib
+<installdir>/Library/lib/cl.cfg
+<installdir>/Library/lib/clbltfnz1.rtl
+<installdir>/Library/lib/cllibraryz1.o
+<installdir>/Library/lib/task_executor64.lib
+<installdir>/Library/lib/task_executor64.dll
+<installdir>/Library/lib/OclCpuBackEnd64.lib
+<installdir>/Library/lib/OclCpuBackEnd64.dll
+<installdir>/Library/lib/libintelocl.so-gdb.py
+<installdir>/Library/lib/intelocl64.lib
+<installdir>/Library/lib/intelocl64.dll
+<installdir>/Library/lib/cpu_device64.lib
+<installdir>/Library/lib/cpu_device64.dll
+<installdir>/Library/lib/common_clang64.dll
+<installdir>/Library/lib/clbltfnz0.rtl
+<installdir>/Library/lib/clbltfnl9.rtl
+<installdir>/Library/lib/clbltfnh8.rtl
+<installdir>/Library/lib/clbltfne9.rtl
+<installdir>/Library/lib/clang_compiler64.lib
+<installdir>/Library/lib/clang_compiler64.dll
+<installdir>/Library/lib/cl_logger.lib
+<installdir>/Library/lib/__ocl_svml_z0.dll
+<installdir>/Library/lib/__ocl_svml_l9.dll
+<installdir>/Library/lib/__ocl_svml_h8.dll
+<installdir>/Library/lib/__ocl_svml_e9.dll
+<installdir>/Library/lib/cllibrary.rtl
+<installdir>/Library/lib/cllibrarye9.o
+<installdir>/Library/lib/cllibraryh8.o
+<installdir>/Library/lib/cllibraryl9.o
+<installdir>/Library/lib/cllibraryz0.o
+<installdir>/Library/lib/clbltfnshared.rtl
+<installdir>/Library/bin/OpenCL.dll
+<installdir>//licensing/opencl/EULA.txt
+<installdir>//licensing/opencl/TBB_TPP.txt
+<installdir>//licensing/opencl/redist.txt
+<installdir>//licensing/opencl/third-party-programs.txt
+<installdir>/Library/bin/sycld.dll
+<installdir>/Library/bin/sycl.dll
+<installdir>/Library/bin/pi_level_zero.dll
